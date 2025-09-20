@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://sales-2zhz.onrender.com';
 
 // Create base axios instance without default Content-Type
 const api = axios.create({
